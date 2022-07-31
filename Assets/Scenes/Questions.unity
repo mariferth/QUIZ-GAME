@@ -310,7 +310,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Qual o grupo em que todas as palavras foram escritas corretamente?
+  m_Text: Statement
 --- !u!222 &70760849
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -811,7 +811,7 @@ MonoBehaviour:
   - Charles Duke, em 1971
   - Asterisco, beneficiente, metereologia, entretido
   correctAnswers:
-  - Alan Turing
+  - Stephen Hawking
   - Guns N' Roses
   - Benedict Cumberbatch
   - Neil Armstrong, em 1969
@@ -2352,7 +2352,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Aster\xEDstico, beneficiente, meteorologia, entertido"
+  m_Text: Alternative B
 --- !u!222 &805549607
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2980,7 +2980,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Asterisco, beneficente, meteorologia, entretido
+  m_Text: Alternative D
 --- !u!222 &956327225
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3255,7 +3255,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Aster\xEDstico, beneficiente, metereologia, entretido"
+  m_Text: Alternative A
 --- !u!222 &1030767563
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4363,7 +4363,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Asterisco, beneficiente, metereologia, entretido
+  m_Text: Alternative C
 --- !u!222 &1556632978
 CanvasRenderer:
   m_ObjectHideFlags: 0
