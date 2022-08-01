@@ -18,7 +18,7 @@ public class FinalGrade : MonoBehaviour
         correctQuestions = PlayerPrefs.GetInt("correctQuestionsTemp");
 
         txtGrade.text = grade.ToString() + " pts";
-        txtInfo.text = "Você acertou " + correctQuestions.ToString() + " de 5 perguntas";
+        txtInfo.text = "Acertos: " + correctQuestions.ToString() + " de 5 perguntas";
 
     }
 }
