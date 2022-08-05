@@ -9,9 +9,14 @@ public class Controls : MonoBehaviour
     public GameObject btnMusicOff;
     public AudioSource audioSource;
 
-    public void loadScene(string sceneName)
+    public void LoadScene(string sceneName)
     {
         SceneManager.LoadScene(sceneName);
+    }
+
+    public void Quit()
+    {
+        Application.Quit();
     }
 
     public void AudioOff()
